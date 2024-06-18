@@ -16,5 +16,4 @@ Circuit Design
 
 <img src="images/XYZC.png" width="500">
 
-
-# gesture_controlled_robotic_arm
+Upload the arduino code in to your arduino mikrocontroller and run the python code.
