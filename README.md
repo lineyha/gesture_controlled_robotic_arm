@@ -12,7 +12,9 @@ In this project, we move the robotic arm without physical contact.
 
 Circuit Design
 
-<img src="images/circuitDesign.png" width="auto">
+<img src="images/circuitDesign.png" width="500">
+
+<img src="images/XYZC.png" width="500">
 
 
 # gesture_controlled_robotic_arm
